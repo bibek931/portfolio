@@ -1,26 +1,26 @@
 var dataJson = [
     {
-        "link":"https://www.instagram.com/sohel_code.py/",
+        "link":"https://www.instagram.com/_bibek_sah/",
         "title":"Instagram",
         "icon":"./res/instagram.svg"
     },
     {
-        "link":"https://github.com/sohez/",
+        "link":"https://github.com/bibek931/",
         "title":"GitHub",
         "icon":"./res/github.svg"
     },
     {
-        "link":"https://t.me/Mr_Linux_user",
+        "link":"https://t.me/bibeksah",
         "title":"Telegram",
         "icon":"./res/telegram.svg"
     },
     {
-        "link":"https://www.youtube.com/channel/UC7ncileMgYcYirfzEYGsCqQ",
+        "link":"https://www.youtube.com/channel/bibek931",
         "title":"YouTube",
         "icon":"./res/youtube.svg"
     },
     {
-        "link":"https://api.whatsapp.com/send?phone=917887614788",
+        "link":"https://api.whatsapp.com/send?phone=918904005840",
         "title":"Whatsapp",
         "icon":"./res/whatsapp.svg"
     }
