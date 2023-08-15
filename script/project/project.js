@@ -4,7 +4,7 @@ var dataJson = [
         "img": "https://cdn-icons-png.flaticon.com/128/5806/5806364.png",
         "title": "Quizec",
         "paragraph":"Quizec : is The Quiz Game For Android.",
-        "url":"https://play.google.com/store/apps/details?id=in.sohezsoft.quiz.app"
+        "url":"https://github.com/bibek931"
     },
     {
         "img": "https://cdn-icons-png.flaticon.com/128/1021/1021264.png",
