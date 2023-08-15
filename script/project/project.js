@@ -1,10 +1,5 @@
 var dataJson = [
-    {
-        "img": "https://cdn-icons-png.flaticon.com/128/644/644667.png",
-        "title": "Mcodo",
-        "paragraph":"Mcodo : Learn Free coding & Online 25+ compiler.",
-        "url":"https://play.google.com/store/apps/details?id=in.sohezsoft.mcodo"
-    },
+    
     {
         "img": "https://cdn-icons-png.flaticon.com/128/5806/5806364.png",
         "title": "Quizec",
