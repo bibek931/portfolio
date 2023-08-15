@@ -57,7 +57,7 @@ function settick(check) {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Sohez Official - SAYYED SOHEL";
+            document.title = "Bibek Portfolio - Bibek Sah";
         }else{
             document.title = "Come Back To Portfolio";
         }
